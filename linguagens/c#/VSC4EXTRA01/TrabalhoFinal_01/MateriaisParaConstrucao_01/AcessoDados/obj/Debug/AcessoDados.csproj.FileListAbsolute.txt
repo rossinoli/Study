@@ -1,0 +1,15 @@
+C:\Users\Giovana\Desktop\Aula 16\Aula 16\MateriaisParaConstrucao - final\AcessoDados\obj\Debug\AcessoDados.csprojResolveAssemblyReference.cache
+C:\Users\Giovana\Desktop\Aula 16\Aula 16\MateriaisParaConstrucao - final\AcessoDados\bin\Debug\AcessoDados.dll
+C:\Users\Giovana\Desktop\Aula 16\Aula 16\MateriaisParaConstrucao - final\AcessoDados\bin\Debug\AcessoDados.pdb
+C:\Users\Giovana\Desktop\Aula 16\Aula 16\MateriaisParaConstrucao - final\AcessoDados\obj\Debug\AcessoDados.dll
+C:\Users\Giovana\Desktop\Aula 16\Aula 16\MateriaisParaConstrucao - final\AcessoDados\obj\Debug\AcessoDados.pdb
+C:\Users\Giovana\Desktop\Aula 16 - teste gi\Aula 16\MateriaisParaConstrucao - final\AcessoDados\bin\Debug\AcessoDados.dll
+C:\Users\Giovana\Desktop\Aula 16 - teste gi\Aula 16\MateriaisParaConstrucao - final\AcessoDados\bin\Debug\AcessoDados.pdb
+C:\Users\Giovana\Desktop\Aula 16 - teste gi\Aula 16\MateriaisParaConstrucao - final\AcessoDados\obj\Debug\AcessoDados.csprojResolveAssemblyReference.cache
+C:\Users\Giovana\Desktop\Aula 16 - teste gi\Aula 16\MateriaisParaConstrucao - final\AcessoDados\obj\Debug\AcessoDados.dll
+C:\Users\Giovana\Desktop\Aula 16 - teste gi\Aula 16\MateriaisParaConstrucao - final\AcessoDados\obj\Debug\AcessoDados.pdb
+C:\Users\marli\Desktop\VCS4\Apostila\Material de Base (Corrigido)\TrabalhoFinal_01\MateriaisParaConstrucao_01\AcessoDados\bin\Debug\AcessoDados.dll
+C:\Users\marli\Desktop\VCS4\Apostila\Material de Base (Corrigido)\TrabalhoFinal_01\MateriaisParaConstrucao_01\AcessoDados\bin\Debug\AcessoDados.pdb
+C:\Users\marli\Desktop\VCS4\Apostila\Material de Base (Corrigido)\TrabalhoFinal_01\MateriaisParaConstrucao_01\AcessoDados\obj\Debug\AcessoDados.csprojResolveAssemblyReference.cache
+C:\Users\marli\Desktop\VCS4\Apostila\Material de Base (Corrigido)\TrabalhoFinal_01\MateriaisParaConstrucao_01\AcessoDados\obj\Debug\AcessoDados.dll
+C:\Users\marli\Desktop\VCS4\Apostila\Material de Base (Corrigido)\TrabalhoFinal_01\MateriaisParaConstrucao_01\AcessoDados\obj\Debug\AcessoDados.pdb

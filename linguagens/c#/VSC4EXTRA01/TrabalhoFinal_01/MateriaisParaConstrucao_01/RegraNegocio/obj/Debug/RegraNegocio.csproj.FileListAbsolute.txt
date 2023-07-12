@@ -1,0 +1,28 @@
+C:\Users\Giovana\Desktop\Aula 16\Aula 16\MateriaisParaConstrucao - final\RegraNegocio\bin\Debug\RegraNegocio.dll
+C:\Users\Giovana\Desktop\Aula 16\Aula 16\MateriaisParaConstrucao - final\RegraNegocio\bin\Debug\RegraNegocio.pdb
+C:\Users\Giovana\Desktop\Aula 16\Aula 16\MateriaisParaConstrucao - final\RegraNegocio\bin\Debug\AcessoDados.dll
+C:\Users\Giovana\Desktop\Aula 16\Aula 16\MateriaisParaConstrucao - final\RegraNegocio\bin\Debug\AcessoDados.pdb
+C:\Users\Giovana\Desktop\Aula 16\Aula 16\MateriaisParaConstrucao - final\RegraNegocio\obj\Debug\RegraNegocio.csprojResolveAssemblyReference.cache
+C:\Users\Giovana\Desktop\Aula 16\Aula 16\MateriaisParaConstrucao - final\RegraNegocio\obj\Debug\RegraNegocio.dll
+C:\Users\Giovana\Desktop\Aula 16\Aula 16\MateriaisParaConstrucao - final\RegraNegocio\obj\Debug\RegraNegocio.pdb
+C:\Users\Giovana\Desktop\Aula 16 - teste gi\Aula 16\MateriaisParaConstrucao - final\RegraNegocio\bin\Debug\RegraNegocio.dll
+C:\Users\Giovana\Desktop\Aula 16 - teste gi\Aula 16\MateriaisParaConstrucao - final\RegraNegocio\bin\Debug\RegraNegocio.pdb
+C:\Users\Giovana\Desktop\Aula 16 - teste gi\Aula 16\MateriaisParaConstrucao - final\RegraNegocio\bin\Debug\AcessoDados.dll
+C:\Users\Giovana\Desktop\Aula 16 - teste gi\Aula 16\MateriaisParaConstrucao - final\RegraNegocio\bin\Debug\AcessoDados.pdb
+C:\Users\Giovana\Desktop\Aula 16 - teste gi\Aula 16\MateriaisParaConstrucao - final\RegraNegocio\obj\Debug\RegraNegocio.csprojResolveAssemblyReference.cache
+C:\Users\Giovana\Desktop\Aula 16 - teste gi\Aula 16\MateriaisParaConstrucao - final\RegraNegocio\obj\Debug\RegraNegocio.dll
+C:\Users\Giovana\Desktop\Aula 16 - teste gi\Aula 16\MateriaisParaConstrucao - final\RegraNegocio\obj\Debug\RegraNegocio.pdb
+D:\Desenvolvimento\C#\Estruturas\VSC3\Atividades extras\Aula 18\Atividade Extra - Arquivos\MateriaisParaConstrucao - final\RegraNegocio\bin\Debug\RegraNegocio.dll
+D:\Desenvolvimento\C#\Estruturas\VSC3\Atividades extras\Aula 18\Atividade Extra - Arquivos\MateriaisParaConstrucao - final\RegraNegocio\bin\Debug\RegraNegocio.pdb
+D:\Desenvolvimento\C#\Estruturas\VSC3\Atividades extras\Aula 18\Atividade Extra - Arquivos\MateriaisParaConstrucao - final\RegraNegocio\bin\Debug\AcessoDados.dll
+D:\Desenvolvimento\C#\Estruturas\VSC3\Atividades extras\Aula 18\Atividade Extra - Arquivos\MateriaisParaConstrucao - final\RegraNegocio\bin\Debug\AcessoDados.pdb
+D:\Desenvolvimento\C#\Estruturas\VSC3\Atividades extras\Aula 18\Atividade Extra - Arquivos\MateriaisParaConstrucao - final\RegraNegocio\obj\Debug\RegraNegocio.csprojResolveAssemblyReference.cache
+D:\Desenvolvimento\C#\Estruturas\VSC3\Atividades extras\Aula 18\Atividade Extra - Arquivos\MateriaisParaConstrucao - final\RegraNegocio\obj\Debug\RegraNegocio.dll
+D:\Desenvolvimento\C#\Estruturas\VSC3\Atividades extras\Aula 18\Atividade Extra - Arquivos\MateriaisParaConstrucao - final\RegraNegocio\obj\Debug\RegraNegocio.pdb
+C:\Users\marli\Desktop\VCS4\Apostila\Material de Base (Corrigido)\TrabalhoFinal_01\MateriaisParaConstrucao_01\RegraNegocio\bin\Debug\RegraNegocio.dll
+C:\Users\marli\Desktop\VCS4\Apostila\Material de Base (Corrigido)\TrabalhoFinal_01\MateriaisParaConstrucao_01\RegraNegocio\bin\Debug\RegraNegocio.pdb
+C:\Users\marli\Desktop\VCS4\Apostila\Material de Base (Corrigido)\TrabalhoFinal_01\MateriaisParaConstrucao_01\RegraNegocio\bin\Debug\AcessoDados.dll
+C:\Users\marli\Desktop\VCS4\Apostila\Material de Base (Corrigido)\TrabalhoFinal_01\MateriaisParaConstrucao_01\RegraNegocio\bin\Debug\AcessoDados.pdb
+C:\Users\marli\Desktop\VCS4\Apostila\Material de Base (Corrigido)\TrabalhoFinal_01\MateriaisParaConstrucao_01\RegraNegocio\obj\Debug\RegraNegocio.csprojResolveAssemblyReference.cache
+C:\Users\marli\Desktop\VCS4\Apostila\Material de Base (Corrigido)\TrabalhoFinal_01\MateriaisParaConstrucao_01\RegraNegocio\obj\Debug\RegraNegocio.dll
+C:\Users\marli\Desktop\VCS4\Apostila\Material de Base (Corrigido)\TrabalhoFinal_01\MateriaisParaConstrucao_01\RegraNegocio\obj\Debug\RegraNegocio.pdb

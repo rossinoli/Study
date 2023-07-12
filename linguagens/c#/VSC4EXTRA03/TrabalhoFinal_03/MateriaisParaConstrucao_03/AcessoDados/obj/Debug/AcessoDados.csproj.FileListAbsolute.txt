@@ -1,0 +1,20 @@
+C:\Users\Giovana\Desktop\Aula 16\Aula 16\MateriaisParaConstrucao - final\AcessoDados\obj\Debug\AcessoDados.csprojResolveAssemblyReference.cache
+C:\Users\Giovana\Desktop\Aula 16\Aula 16\MateriaisParaConstrucao - final\AcessoDados\bin\Debug\AcessoDados.dll
+C:\Users\Giovana\Desktop\Aula 16\Aula 16\MateriaisParaConstrucao - final\AcessoDados\bin\Debug\AcessoDados.pdb
+C:\Users\Giovana\Desktop\Aula 16\Aula 16\MateriaisParaConstrucao - final\AcessoDados\obj\Debug\AcessoDados.dll
+C:\Users\Giovana\Desktop\Aula 16\Aula 16\MateriaisParaConstrucao - final\AcessoDados\obj\Debug\AcessoDados.pdb
+C:\Users\Giovana\Desktop\Aula 16 - teste gi\Aula 16\MateriaisParaConstrucao - final\AcessoDados\bin\Debug\AcessoDados.dll
+C:\Users\Giovana\Desktop\Aula 16 - teste gi\Aula 16\MateriaisParaConstrucao - final\AcessoDados\bin\Debug\AcessoDados.pdb
+C:\Users\Giovana\Desktop\Aula 16 - teste gi\Aula 16\MateriaisParaConstrucao - final\AcessoDados\obj\Debug\AcessoDados.csprojResolveAssemblyReference.cache
+C:\Users\Giovana\Desktop\Aula 16 - teste gi\Aula 16\MateriaisParaConstrucao - final\AcessoDados\obj\Debug\AcessoDados.dll
+C:\Users\Giovana\Desktop\Aula 16 - teste gi\Aula 16\MateriaisParaConstrucao - final\AcessoDados\obj\Debug\AcessoDados.pdb
+D:\MateriaisParaConstrucao - aula 18\AcessoDados\bin\Debug\AcessoDados.dll
+D:\MateriaisParaConstrucao - aula 18\AcessoDados\bin\Debug\AcessoDados.pdb
+D:\MateriaisParaConstrucao - aula 18\AcessoDados\obj\Debug\AcessoDados.csprojResolveAssemblyReference.cache
+D:\MateriaisParaConstrucao - aula 18\AcessoDados\obj\Debug\AcessoDados.dll
+D:\MateriaisParaConstrucao - aula 18\AcessoDados\obj\Debug\AcessoDados.pdb
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - aula 20 inicial\AcessoDados\bin\Debug\AcessoDados.dll
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - aula 20 inicial\AcessoDados\bin\Debug\AcessoDados.pdb
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - aula 20 inicial\AcessoDados\obj\Debug\AcessoDados.csprojResolveAssemblyReference.cache
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - aula 20 inicial\AcessoDados\obj\Debug\AcessoDados.dll
+C:\Users\Giovana\Desktop\MateriaisParaConstrucao - aula 20 inicial\AcessoDados\obj\Debug\AcessoDados.pdb

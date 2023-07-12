@@ -1,0 +1,66 @@
+D:\Visual Mídia\Visual Studio C#\3º Módulo\Projetos\Cupom Fiscal\ECF\ECF\bin\Debug\ECF.exe.config
+D:\Visual Mídia\Visual Studio C#\3º Módulo\Projetos\Cupom Fiscal\ECF\ECF\bin\Debug\ECF.exe
+D:\Visual Mídia\Visual Studio C#\3º Módulo\Projetos\Cupom Fiscal\ECF\ECF\bin\Debug\ECF.pdb
+D:\Visual Mídia\Visual Studio C#\3º Módulo\Projetos\Cupom Fiscal\ECF\ECF\obj\Debug\ECF.csprojResolveAssemblyReference.cache
+D:\Visual Mídia\Visual Studio C#\3º Módulo\Projetos\Cupom Fiscal\ECF\ECF\obj\Debug\ECF.Properties.Resources.resources
+D:\Visual Mídia\Visual Studio C#\3º Módulo\Projetos\Cupom Fiscal\ECF\ECF\obj\Debug\ECF.csproj.GenerateResource.Cache
+D:\Visual Mídia\Visual Studio C#\3º Módulo\Projetos\Cupom Fiscal\ECF\ECF\obj\Debug\ECF.exe
+D:\Visual Mídia\Visual Studio C#\3º Módulo\Projetos\Cupom Fiscal\ECF\ECF\obj\Debug\ECF.pdb
+D:\Visual Mídia\Visual Studio C#\3º Módulo\Projetos\Cupom Fiscal\ECF\ECF\obj\Debug\ECF.Form1.resources
+C:\Users\Giovana\Desktop\ECF 2\ECF\bin\Debug\ECF.exe.config
+C:\Users\Giovana\Desktop\ECF 2\ECF\obj\Debug\ECF.exe
+C:\Users\Giovana\Desktop\ECF 2\ECF\obj\Debug\ECF.pdb
+C:\Users\Giovana\Desktop\ECF 2\ECF\bin\Debug\ECF.exe
+C:\Users\Giovana\Desktop\ECF 2\ECF\bin\Debug\ECF.pdb
+C:\Users\Giovana\Desktop\ECF 2\ECF\obj\Debug\ECF.csprojResolveAssemblyReference.cache
+C:\Users\Giovana\Desktop\ECF 2\ECF\obj\Debug\ECF.Form1.resources
+C:\Users\Giovana\Desktop\ECF 2\ECF\obj\Debug\ECF.Properties.Resources.resources
+C:\Users\Giovana\Desktop\ECF 2\ECF\obj\Debug\ECF.csproj.GenerateResource.Cache
+D:\ECF 2\ECF\bin\Debug\ECF.exe.config
+D:\ECF 2\ECF\obj\Debug\ECF.exe
+D:\ECF 2\ECF\obj\Debug\ECF.pdb
+D:\ECF 2\ECF\bin\Debug\ECF.exe
+D:\ECF 2\ECF\bin\Debug\ECF.pdb
+D:\ECF 2\ECF\obj\Debug\ECF.csprojResolveAssemblyReference.cache
+D:\ECF 2\ECF\obj\Debug\ECF.Form1.resources
+D:\ECF 2\ECF\obj\Debug\ECF.Properties.Resources.resources
+D:\ECF 2\ECF\obj\Debug\ECF.csproj.GenerateResource.Cache
+D:\Desenvolvimento\C#\Estruturas\VSC3\Aula 28\Documentos\Interação\ECF - inicial interativa\ECF\bin\Debug\ECF.exe.config
+D:\Desenvolvimento\C#\Estruturas\VSC3\Aula 28\Documentos\Interação\ECF - inicial interativa\ECF\obj\Debug\ECF.exe
+D:\Desenvolvimento\C#\Estruturas\VSC3\Aula 28\Documentos\Interação\ECF - inicial interativa\ECF\obj\Debug\ECF.pdb
+D:\Desenvolvimento\C#\Estruturas\VSC3\Aula 28\Documentos\Interação\ECF - inicial interativa\ECF\bin\Debug\ECF.exe
+D:\Desenvolvimento\C#\Estruturas\VSC3\Aula 28\Documentos\Interação\ECF - inicial interativa\ECF\bin\Debug\ECF.pdb
+D:\Desenvolvimento\C#\Estruturas\VSC3\Aula 28\Documentos\Interação\ECF - inicial interativa\ECF\obj\Debug\ECF.csprojResolveAssemblyReference.cache
+D:\Desenvolvimento\C#\Estruturas\VSC3\Aula 28\Documentos\Interação\ECF - inicial interativa\ECF\obj\Debug\ECF.frmTesteECF.resources
+D:\Desenvolvimento\C#\Estruturas\VSC3\Aula 28\Documentos\Interação\ECF - inicial interativa\ECF\obj\Debug\ECF.Properties.Resources.resources
+D:\Desenvolvimento\C#\Estruturas\VSC3\Aula 28\Documentos\Interação\ECF - inicial interativa\ECF\obj\Debug\ECF.csproj.GenerateResource.Cache
+C:\Users\Giovana\Desktop\ECF - inicial interativa\ECF\bin\Debug\ECF.exe.config
+C:\Users\Giovana\Desktop\ECF - inicial interativa\ECF\obj\Debug\ECF.exe
+C:\Users\Giovana\Desktop\ECF - inicial interativa\ECF\obj\Debug\ECF.pdb
+C:\Users\Giovana\Desktop\ECF - inicial interativa\ECF\bin\Debug\ECF.exe
+C:\Users\Giovana\Desktop\ECF - inicial interativa\ECF\bin\Debug\ECF.pdb
+C:\Users\Giovana\Desktop\ECF - inicial interativa\ECF\obj\Debug\ECF.csprojResolveAssemblyReference.cache
+C:\Users\Giovana\Desktop\ECF - inicial interativa\ECF\obj\Debug\ECF.frmTesteECF.resources
+C:\Users\Giovana\Desktop\ECF - inicial interativa\ECF\obj\Debug\ECF.Properties.Resources.resources
+C:\Users\Giovana\Desktop\ECF - inicial interativa\ECF\obj\Debug\ECF.csproj.GenerateResource.Cache
+C:\Users\Giovana\Desktop\ECF - final interativa\ECF\bin\Debug\ECF.exe.config
+C:\Users\Giovana\Desktop\ECF - final interativa\ECF\obj\Debug\ECF.exe
+C:\Users\Giovana\Desktop\ECF - final interativa\ECF\obj\Debug\ECF.pdb
+C:\Users\Giovana\Desktop\ECF - final interativa\ECF\bin\Debug\ECF.exe
+C:\Users\Giovana\Desktop\ECF - final interativa\ECF\bin\Debug\ECF.pdb
+C:\Users\Giovana\Desktop\ECF - final interativa\ECF\obj\Debug\ECF.csprojResolveAssemblyReference.cache
+C:\Users\Giovana\Desktop\ECF - final interativa\ECF\obj\Debug\ECF.frmTesteECF.resources
+C:\Users\Giovana\Desktop\ECF - final interativa\ECF\obj\Debug\ECF.Properties.Resources.resources
+C:\Users\Giovana\Desktop\ECF - final interativa\ECF\obj\Debug\ECF.csproj.GenerateResource.Cache
+D:\Desenvolvimento\C#\Estruturas\VSC3\Atividades extras\Aula 28\Atividade Extra - Documentos\ECF - final\ECF\bin\Debug\ECF.exe.config
+D:\Desenvolvimento\C#\Estruturas\VSC3\Atividades extras\Aula 28\Atividade Extra - Documentos\ECF - final\ECF\obj\Debug\ECF.exe
+D:\Desenvolvimento\C#\Estruturas\VSC3\Atividades extras\Aula 28\Atividade Extra - Documentos\ECF - final\ECF\obj\Debug\ECF.pdb
+D:\Desenvolvimento\C#\Estruturas\VSC3\Atividades extras\Aula 28\Atividade Extra - Documentos\ECF - final\ECF\bin\Debug\ECF.exe
+D:\Desenvolvimento\C#\Estruturas\VSC3\Atividades extras\Aula 28\Atividade Extra - Documentos\ECF - final\ECF\bin\Debug\ECF.pdb
+D:\Desenvolvimento\C#\Estruturas\VSC3\Atividades extras\Aula 28\Atividade Extra - Documentos\ECF - final\ECF\obj\Debug\ECF.csprojResolveAssemblyReference.cache
+D:\Desenvolvimento\C#\Estruturas\VSC3\Atividades extras\Aula 28\Atividade Extra - Documentos\ECF - final\ECF\obj\Debug\ECF.frmTesteECF.resources
+D:\Desenvolvimento\C#\Estruturas\VSC3\Atividades extras\Aula 28\Atividade Extra - Documentos\ECF - final\ECF\obj\Debug\ECF.Properties.Resources.resources
+D:\Desenvolvimento\C#\Estruturas\VSC3\Atividades extras\Aula 28\Atividade Extra - Documentos\ECF - final\ECF\obj\Debug\ECF.csproj.GenerateResource.Cache
+C:\Users\marli\Desktop\VCS4\Apostila\Aula 11\Material de Base (Corrigido)\TrabalhoFinal_11\ECF_11\ECF\bin\Debug\ECF.exe.config
+C:\Users\marli\Desktop\VCS4\Apostila\Aula 11\Material de Base (Corrigido)\TrabalhoFinal_11\ECF_11\ECF\obj\Debug\ECF.exe
+C:\Users\marli\Desktop\VCS4\Apostila\Aula 11\Material de Base (Corrigido)\TrabalhoFinal_11\ECF_11\ECF\obj\Debug\ECF.pdb
