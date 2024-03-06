@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formulario II</title>
+</head>
+<body>
+    <h1>FORMULARIO</h1>
+    <form action="dados.html" method="post">
+        <label for="nomeCompleto">Nome Completo:</label>
+        <input type="text" name="nomeCompleto" id="nomecompleto" placeholder="" required>
+        <br>
+        <label for="dataNascimento">Data Nascimento</label>
+        <select name="dia" id="dia" required>
+            <option value="" selected disabled >Dia</option>
+        </select>
+        <select name="mes" id="mes" required>
+            <option value="" selected disabled> Mes</option>
+        </select>
+        <select name="ano" id="ano" required>
+            <option value="" selected disabled>Ano</option>
+        </select>
+
+        <br>
+        <label for="cpf">CPF:</label>
+        <input type="number" name="cpf" id="cpf" placeholder="" required>
+        <br>
+        <label for="senha">Senha:</label>
+        <input type="password" name="senha" id="senha" placeholder="" required>
+        <br>
+        <label for="sexo">Sexo:</label>
+        <input type="radio" name="sexo" id="F" value="feminino">
+        <label for="F" >Feminino</label>
+        <input type="radio" name="sexo" id="M" value="masculino">
+        <label for="M" >Masculino</label>
+        <br>
+        <textarea name="mensagem" id="" cols="30" rows="10" placeholder="mensagem"></textarea>
+        <br>
+
+        <label for="receberemail">Gostaria de receber email com novidades do site?</label>
+        <br>
+        <input type="radio" name="receberemail" id="yes" value="Y">
+        <label for="yes">Sim, eu aceito receber as novidades no E-mail.</label>
+        <br>
+        <input type="radio" name="receberemail" id="no" value="N">
+        <label for="no">Não, aceito receber as novidades no E-mail.</label>
+
+    </form>
+</body>
+</html>

@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!--Import Google Icon Font-->
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <!--Import materialize.css-->
+    <link type="text/css" rel="stylesheet" href="css/materialize.min.css"  media="screen,projection"/>
+    <link rel="stylesheet" href="css/custom.css">
+    <link rel="stylesheet" href="contact.css">
+    <title>Home</title>
+</head>
+<body>
+    <header>
+        <nav class="blue z-depth-0 grey darken-4">
+            <!--DESKTOP-->
+            <div class="nav-wrapper container">
+                <a href="#" class="brand-logo center hide-on-large-only">Rossinoli</a>
+                <a href="#" class="brand-logo left hide-on-med-and-down">Rossinoli</a>
+            <ul id="nav-mobile" class="right hide-on-med-and-down">
+                <li><a href="home.html">Home</a></li>
+                <li><a href="portifolio.html">Portifolio</a></li>
+                <li><a href="contact.html">Contato</a></li>
+            </ul>
+            <!--MOBILES-->
+            <ul id="slide-out" class="side-nav">
+                <li><div class="user-view">
+                <div class="background">
+                    <img src="img/celular.jpg">
+                </div>
+                <img class="circle" src="img/eu.png"></a>
+                </div></li>
+                <li><a class="waves-effect" href="home.html">Home</a></li>
+                <li><a class="waves-effect" href="portifolio.html">Portifolio</a></li>
+                <li><a class="waves-effect" href="contact.html">Contato</a></li>
+            </ul>
+                <a href="#" data-activates="slide-out" class="button-collapse"><i class="material-icons">menu</i></a>
+            </div>
+        </nav>
+    </header>
+    <main></main>
+    <footer class="page-footer blue z-depth-0 grey darken-4">
+            <div class="footer-copyright">
+                <div class="container center-align">
+                    © 2023 Desenvolvido com <i class="material-icons">favorite</i> por Rossinoli
+                    </div>
+            </div>
+    </footer>
+
+
+        <!--Import jQuery before materialize.js-->
+        <script src="https://code.jquery.com/jquery-3.7.1.min.js" integrity="sha256-/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo=" crossorigin="anonymous"></script>
+        <script type="text/javascript" src="js/materialize.min.js"></script>
+        <script>
+            $( document ).ready(function(){
+                $('.button-collapse').sideNav({
+                    menuWidth: 300,
+                    edge: 'rigth',
+                    closeOnClick: true,
+                    draggable: true,
+                    onOpen: function(el) { /* Do Stuff */ },
+                    onClose: function(el) { /* Do Stuff */ },
+                })
+            });
+        </script>
+</body>
+</html>

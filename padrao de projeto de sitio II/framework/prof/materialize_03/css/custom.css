@@ -1,0 +1,13 @@
+section{
+    padding: 64px;
+}
+.progress{
+    height: 16px;
+    /* height: 16px!important; */
+}
+
+.shadow-img{
+    border: 4px solid #fff;
+    -webkit-box-shadow: 0 0 5px 2px #D1D1D1;
+    box-shadow: 0 0 5px 2px #D1D1D1;
+}

@@ -1,0 +1,239 @@
+/* geral */
+#content {
+    transform: scale(0.67);
+    transform-origin: 0 0;
+}
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
+section{
+    padding: 64px 128px;    
+}
+
+section h1{
+    font-size: 24px;
+    font-weight: bolder;
+    text-transform: uppercase;
+}
+
+.textoVerde{
+    color: #e88700;
+}
+
+.textoBranco{
+    color: #FFF;
+}
+
+section p{
+    margin: 24px 0px;
+    text-align: justify;
+    line-height: 24px;
+}
+
+/* cabecalho */
+header{
+    background-color: #e88700;
+    text-align: right;
+    padding: 16px 0px;
+}
+
+a{
+    color: #fff;
+    text-decoration: none;
+    text-transform: uppercase;
+    margin-right: 40px;
+}
+
+a:hover{
+    text-decoration: underline;
+}
+
+li{
+    list-style-type: none;
+    display: inline;
+}
+
+/* banner */
+
+#banner{
+    background-color: #000;
+    text-align: center;
+    color: #fff;
+    text-transform: uppercase;
+}
+
+#banner h1{
+    font-size: 56px;
+    font-weight: bolder;
+}
+
+#banner span{
+    color: #e88700;
+}
+
+#banner p{
+    margin: 24px 0px 36px 0px;
+    line-height: 24px;
+    text-align: center;
+
+}   
+
+#banner a{
+    background-color: #e88700;
+    padding: 12px 6px;
+}
+
+/* sobre mim  */
+
+#sobreMim{
+    background-color: #f6f6f6;
+    display: flex;
+    justify-content: space-between;
+}
+
+#sobreMim img{
+    width: auto;
+    height: 450px;
+}
+
+#sobreMim div:nth-child(2){
+    padding-left: 24px;
+    width: 70%;
+}
+
+
+
+#experiencia{
+    background-color: #e88700;
+}
+
+/* contato */
+#contato{
+    background-color: #e88700;
+}
+
+
+#contato-coluna{
+
+    display: flex;
+    justify-content: space-around;
+
+}
+
+
+#contato-coluna div{
+    width: 50%;
+    background-color: #fff;
+
+}
+
+#form{
+    margin-right: 25px;
+    padding: 16px;
+}
+#maps{
+    margin-left: 25px;
+
+}
+
+#form button{
+    margin: 10px 0 10px 0;
+    position: relative;
+    left: 90.1%;
+}
+
+
+label{
+    font-size: 12px;
+    color: #a0a0a0;
+}
+
+form button{
+border-style: none;
+background-color: #fff;
+color: #e88700;
+font-size: 1.2em;
+cursor: pointer;
+text-transform: uppercase;
+
+}
+
+
+input, textarea{
+    border: 0px;
+    border-bottom: 1px solid #a0a0a0;
+    width: 100%;    
+    height: 28px;
+    margin: 8px 0px 16px 0px;
+}
+
+textarea{
+height: 100%;
+}
+
+iframe{
+    width: 100%;
+    height: 100%;
+    padding: 0;
+}
+
+
+/*CONHECIMENTO*/
+
+.border{
+    background-color: #e88700;
+
+    margin: 13px 0 13px 0 ;
+}
+#Html{
+    margin-top: 50px;
+}
+
+#conhecimento h2{
+    color: #646464;
+    text-transform: uppercase;
+    font-weight: bolder;
+}
+
+.border span{
+    background-color: #fff;
+    padding: 5px 10px 5px 10%;
+    margin: 0 2px 0 2px;
+
+    position: relative;
+    left: 89.1%;
+}
+
+#html,#js,#photoshop{
+    padding: 20px 0 20px 0;
+}
+#css,#jq,#corel{
+    padding: 10px 0 10px 0;
+}
+
+footer{
+
+    padding: 34px 34px;
+
+}
+
+footer p,link {
+    text-align: justify;
+    line-height: 40px;
+     font-size: 1.2rem;
+}
+
+.text-center{
+    text-align: center;
+}
+
+
+.link{
+    color: #e88700;
+    font-weight: bolder;
+}
+
+#cinza{
+    color: #646464;
+}

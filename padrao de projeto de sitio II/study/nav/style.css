@@ -1,0 +1,62 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'poppins', sans-serif;
+}
+
+html{
+    height: 500vh;
+}
+
+nav{
+    max-width: 1280px;
+    margin: auto;
+}
+
+header{
+    width: 100%;
+    padding: 60px 4%;
+    position: fixed;
+    top: 0;
+    left: 0;
+}
+
+#flex{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+header li{
+    list-style-type: none;
+    display: inline;
+}
+
+header a{
+    color: #ff0000;
+    text-decoration: none;
+    text-transform: uppercase;
+    margin: 0px 40px;
+}
+
+#banner{
+    height: 100vh;
+    background-image: url(fundo-de-estilo-de-arte-de-pixel-de-ceu-rosa-azul-pastel-com-espaco-de-copia_176697-1779.avif);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#banner h1{
+    font-size: 4em;
+    font-weight: bolder;
+    text-transform: uppercase;
+}
+#banner span{
+    color: aquamarine;
+}

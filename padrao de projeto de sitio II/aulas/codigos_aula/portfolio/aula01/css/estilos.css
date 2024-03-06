@@ -1,0 +1,17 @@
+header{
+    background-color: #42928f;
+    text-align: right;
+    padding: 16px 0px;
+}
+
+a{
+    color: #fff;
+    text-decoration: none;
+    text-transform: uppercase;
+    margin-right: 40px;
+}
+
+li{
+    list-style-type: none;
+    display: inline;
+}

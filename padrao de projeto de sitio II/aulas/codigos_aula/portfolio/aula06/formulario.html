@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>FORMULARIO JA FEITO</title>
+    <style>
+        form span{
+            color: #f00;
+        }
+    </style>
+</head>
+<body>
+
+    <form action="dados.html" method="POST">
+        <label for="nome"><span>*</span>Nome:</label><br>
+        <input type="text" name="nomeCompleto" id="nome" placeholder="Nome completo" required>
+        <br>
+
+        <label for="senha"><span>*</span>Senha:</label><br>
+        <input type="password" name="senha" id="senha" placeholder="Senha" required>
+        <br>
+
+        <label for="estado"><span>*</span>Estado:</label>
+        <br>
+        <select name="estado" id="estado" required>
+            <option value="" selected disabled>Selecione o seu estado</option>
+            <option value="ES">Espirito Santo</option>
+            <option value="MG">Minas Gerais</option>
+            <option value="SP">São Paulo</otion>
+            <option value="RJ">Rio de Janeiro</option>
+        </select>
+        <br>
+
+        <input type="radio" name="sexo" id="feminino" value="F">
+        <label for="feminino">Feminino</label>
+
+        <input type="radio" name="sexo" checked id="masculino" value="M">
+        <label for="masculino">Masculino</label>
+        <input type="radio" name="sexo" id="ni" value="NI">
+        <label for="ni">Não informar</label>
+
+        <br>
+
+        <input type="checkbox" id="opcao1" name="interesse" value="livros">
+        <label for="opcao1">Livros</label>
+        
+        <input type="checkbox" id="opcao2" name="interesse" value="series">
+        <label for="opcao2">Séries</label>
+        
+        <input type="checkbox" id="opcao3" name="interesse" value="historia">
+        <label for="opcao3">História</label>
+        
+        <input type="checkbox" id="opcao4" name="interesse" value="musica">
+        <label for="opcao4">Música</label>
+        
+        <br>
+
+        <textarea name="mensagem" id="" cols="30" rows="10"></textarea>
+        <br>
+        <!-- <input type="submit" value="Cadastrar"> -->
+        <button type="submit">OK</button>
+
+
+
+    </form>
+
+
+
+</body>
+
+</html>

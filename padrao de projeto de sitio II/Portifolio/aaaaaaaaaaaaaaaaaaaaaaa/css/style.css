@@ -1,0 +1,395 @@
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@300;400;500;600&display=swap');
+
+/*GERAL*/
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    font-family: 'IBM Plex Mono', monospace;
+    overflow-x: hidden;
+    height: 100vh;
+}
+
+a {
+    padding: 1px 0;
+    text-decoration: none;
+    transition: color 0.2s;
+}
+
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.flex{
+    display: flex;
+}
+
+/*HEADER*/
+a {
+    color: #7d5b8c;
+    text-decoration: none;
+    transition: 0.3s;
+  }
+  
+  a:hover {
+    color:#fff;
+    opacity: 0.7;
+  }
+
+    
+  nav {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    font-family: system-ui, -apple-system, Helvetica, Arial, sans-serif;
+    background: #bcbab8;
+    height: 8vh;
+  }
+
+  .nav-list {
+    list-style: none;
+    display: flex;
+  }
+  
+  .nav-list li {
+    letter-spacing: 3px;
+    margin-left: 32px;
+  }
+  
+  .mobile-menu {
+    display: none;
+    cursor: pointer;
+  }
+  
+  .mobile-menu div {
+    width: 32px;
+    height: 2px;
+    background:#7d5b8c;
+    margin: 8px;
+    transition: 0.3s;
+  }
+
+  /*MENU MOBILE*/
+  @media (max-width: 999px) {
+    body {
+      overflow-x: hidden;
+    }
+    .nav-list {
+      position: absolute;
+      top: 8vh;
+      right: 0;
+      width: 50vw;
+      height: 92vh;
+      background: #bcbab8;
+      flex-direction: column;
+      align-items: center;
+      justify-content: space-around;
+      transform: translateX(100%);
+      transition: transform 0.3s ease-in;
+    }
+    .nav-list li {
+      margin-left: 0;
+      opacity: 0;
+    }
+    .mobile-menu {
+      display: block;
+    }
+  }
+  
+  .nav-list.active {
+    transform: translateX(0);
+  }
+  
+  @keyframes navLinkFade {
+    from {
+      opacity: 0;
+      transform: translateX(50px);
+    }
+    to {
+      opacity: 1;
+      transform: translateX(0);
+    }
+  }
+  
+  .mobile-menu.active .line1 {
+    transform: rotate(-45deg) translate(-8px, 8px);
+  }
+  
+  .mobile-menu.active .line2 {
+    opacity: 0;
+  }
+  
+  .mobile-menu.active .line3 {
+    transform: rotate(45deg) translate(-5px, -7px);
+  }
+
+/*HOME*/
+section #home{
+    padding: 40px 4%;
+}
+
+section #home .flex{
+    align-items: center;
+    justify-content: center;
+    gap: 90px;
+}
+
+#home h1{
+    color: #000;
+    font-size: 42px;
+    line-height: 40px;
+}
+
+#home #txtHome h1 span{
+    color: #7d5b8c;
+}
+
+#home #txtHome p{
+    color: #000;
+    margin: 40px 0;
+}
+
+
+#home .imgHome img{
+    width: 80%;
+    position: relative;
+    animation: flutuar 2s ease-in-out infinite alternate;
+}
+
+
+@keyframes flutuar {
+    0% {
+        top: 0;
+    }
+
+    100% {
+        top: 30px;
+    }
+}
+
+/*SOBRE*/
+
+section #sobre{
+    padding: 80px 4%;
+}
+section #sobre .flex{
+    align-items: center;
+    gap: 60px;
+}
+
+#sobre #txtSobre{
+    color: #000;
+}
+
+#sobre #txtSobre h2{
+    font-size: 40px;
+    line-height: 40px;
+    margin-bottom: 30px;
+}
+
+#sobre #txtSobre h2 span{
+    color: #7d5b8c;
+    display: block;
+}
+
+#sobre #txtSobre p{
+    margin: 20px 0;
+    text-align: justify;
+}
+
+/*CONHECIMENTO*/
+
+#conhecimento .txtConhecimento p span{
+    color: #7d5b8c;
+    font-size: 24px;
+}
+
+#conhecimento .txtConhecimento{
+    justify-content: center;
+    margin-right: 50px;
+}
+
+#conhecimento h2{
+        font-size: 26px;
+        line-height: 16px;
+        margin-bottom: 20px;
+    
+}
+
+/*PROJETO*/ 
+    section #projetoUm{
+        padding: 80px 4%;
+        box-shadow: 0 0 40px 10px #ffffff1d;
+    }
+
+    #projetoUm h1{
+        font-size: 40px;
+    }
+
+    #projetoUm h1 span{
+        color: #7d5b8c;
+    }
+
+    #projetoUm .flex{
+        display: flex;
+        flex-wrap: wrap;
+        gap: 60px;
+    }
+
+    .img-port{
+        width: 360px;
+        height: 460px;
+        background-size: cover;
+        background-position: 100% 0%;
+        transition: 8s;
+        cursor: pointer;
+        border-radius: 20px;
+        position: relative;
+
+        
+    }
+
+    .img-port:hover{
+        background-position: 100% 100%;
+    }
+
+    .overlay{
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        background-color: #000000b8;
+        border-radius: 20px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        font-size: 24px;
+        font-weight: 600;
+        color: #fff;
+        opacity: 0;
+        transition: .5s;
+    }
+
+    .overlay:hover{
+        opacity: 1;
+    }
+
+    /*CONTATO*/
+    section #contato{
+        padding: 80px 4%;
+    }
+
+    #contato h2{
+        text-align: center;
+        font-size: 40px;
+    }
+
+    #contato h2 span{
+        color: #7d5b8c;
+    }
+
+    form{
+        max-width: 500px;
+        margin: 0 auto;
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
+        gap: 10px;
+        margin-top: 40px;
+    }
+
+    form input,
+    form textarea{
+        width: 100%;
+        background-color: #dcdcdc;
+        border: 0;
+        outline: 0;
+        padding: 20px 15px;
+        border-radius: 5px;
+        font-size: 18px;
+    }
+
+    form textarea{
+        resize: none;
+        max-height: 200px;
+    }
+
+    form .btnEnviar{
+        margin-top: 20px;
+        text-align: center;
+    }
+
+    form .btnEnviar input{
+        width: 120px;
+        background-color: #7d5b8c;
+        color: #dcdcdc;
+        font-weight: 700;
+        cursor:pointer;
+        transition: .2s;
+    }
+    form .btnEnviar input:focus,
+    form .btnEnviar input:hover{
+        background-color: #dcdcdc;
+        color: #7d5b8c;
+    }
+
+    /*FOOTER*/
+    footer {
+        padding: 40px 4%;
+        box-shadow: 0 0 40px 10px #ffffff1d;
+    }
+
+    footer #lineFooter{
+        padding: 20px 0;
+    }
+
+    footer .flex{
+        justify-content: space-between;
+    }
+
+    footer #lineFooter p i{
+        color: #7d5b8c;
+        font-size: 22px;
+    }
+
+    footer #lineFooter p a{
+        color: #000;
+    }
+
+    footer .link{
+        color: #7d5b8c;
+    }
+
+
+
+
+
+    /*AAAAAAAAAAAAA*/
+
+    #conhecimento .txtConhecimento p::after{
+        content: '|';
+        opacity: 1;
+        margin-left: 2px;
+        display: inline-block;
+        animation: blink .7s infinite;
+    }
+
+    @keyframes blink{
+        0%, 100%{
+            opacity: 1;
+        }
+
+        50%{
+            opacity: 0;
+        }
+    }

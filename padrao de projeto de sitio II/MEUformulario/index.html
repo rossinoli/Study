@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>formulario de alunos</title>
+</head>
+<body>
+    <h2>Dados pessoais:</h2>
+        <form action="dados.html">
+            <label for="NomeDoAluno">Nome do aluno:</label>
+            <input type="text" name="nomedoaluno" id="nomedoaluno" placeholder="" required>
+            <br>
+
+            <label for="DataNascimento">Data Nacimento:</label>
+            <input type="number" name="diaNacimento" id="dia" placeholder="dd" required>
+            <input type="number" name="mesNacimento" id="mes" placeholder="mm" required>
+            <input type="number" name="anoNacimento" id="ano" placeholder="aaaa" required>
+            <br>
+
+            <label for="NomeDaMae">Nome da Mãe:</label>
+            <input type="text" name="nomedamae" id="nomedamae" placeholder="" required>
+            <br>
+
+            <label for="NomeDoPai">Nome do Pai:</label>
+            <input type="text" name="nomedopai" id="nomedopai" placeholder="" required>
+            <br>
+
+            <label for="contato">Telefone:DDD</label><span>(</span>
+            <input type="number" name="DDD" id="DDD" placeholder="" required><span>)</span>
+            <label for="Telefone">Tel:</label>
+            <input type="number" name="Telefone" id="tel" placeholder="" required>
+            <br>
+
+            <label for="email">Email</label>
+            <input type="email" name="email" id="email" placeholder="" required>
+            <br>
+
+
+
+            <h2>Informações da Matrícula:</h2>
+        <div id="pai">
+            <div class="filhos">
+                <label for="serie">Série</label>
+                <br>
+                <select name="serie" id="serie" required>
+                    <option value="" selected disabled>pré-escolar</option>
+                </select>
+            <br>
+            </div>
+            <div class="filhos">
+                <label for="turno">Turno</label>
+            <br>
+                <input type="radio" name="turno" id="manha" value="m">
+                <label for="manha">Manhã</label>
+            <br>
+                <input type="radio" name="turno" id="tarde" value="t">
+                <label for="tarde">Tarde</label>
+            </div>
+            <div class="filhos">
+                <label for="atividadesExtracurriculares">Atividades Extracurriculares</label>
+                <br>
+                    <input type="checkbox" id="opcao1" name="interesse" value="artes">
+                    <label for="opcao1">Artes</label>
+                <br>
+                    <input type="checkbox" id="opcao2" name="interesse" value="futebol">
+                    <label for="opcao2">Futebol</label>
+                <br>
+                    <input type="checkbox" id="opcao3" name="interesse" value="informatica">
+                    <label for="opcao3">Informática</label>
+                <br>
+                    <input type="checkbox" id="opcao4" name="interesse" value="judo">
+                    <label for="opcao4">Judô</label>
+                <br>
+                    <input type="checkbox" id="opcao5" name="interesse" value="musica">
+                    <label for="opcao5">Música</label>
+                <br>
+                    <input type="checkbox" id="opcao6" name="interesse" value="pintura">
+                    <label for="opcao6">Pintura</label>
+            </div>
+        </div>
+        </form>
+
+
+
+
+
+</body>
+</html>

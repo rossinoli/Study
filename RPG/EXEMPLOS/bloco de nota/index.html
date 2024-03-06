@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>BLOCO DE NOTAS</title>
+</head>
+<body>
+    <script>
+        document.addEventListener("DOMContentLoaded", function () {
+    const notasTextarea = document.getElementById("notas");
+    const salvarButton = document.getElementById("salvar");
+
+    // Carregar notas do armazenamento local, se existirem
+    notasTextarea.value = localStorage.getItem("notas") || "";
+
+    // Salvar notas no armazenamento local ao clicar no botão "Salvar"
+    salvarButton.addEventListener("click", function () {
+        localStorage.setItem("notas", notasTextarea.value);
+        alert("Notas salvas com sucesso!");
+    });
+});
+    </script>
+    <style>
+
+        body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+}
+
+.container {
+    max-width: 900px;
+    margin: 20px auto;
+    padding: 40px;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+textarea {
+    width: 100%;
+    height: 300px;
+    resize: none;
+    border: 1px solid #ccc;
+    padding: 0px;
+}
+
+button {
+    margin-top: 20px;
+    height: 30px;
+    background-color: aquamarine;
+    border: none;
+}
+    </style>
+
+
+<h1>Bloco de Notas</h1>
+    <div class="container">
+        <textarea id="notas" placeholder="Digite suas notas aqui..."></textarea>
+        <button id="salvar">Salvar</button>
+    </div>
+</body>
+</html>

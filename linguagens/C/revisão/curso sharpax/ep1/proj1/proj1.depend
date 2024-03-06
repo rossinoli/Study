@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1706571923 source:c:\users\rossi\study\linguagens\c\revisão\curso sharpax\ep1\proj1\main.c
+	<stdio.h>
+	<stdlib.h>
+
